@@ -12,7 +12,6 @@ Este repositorio contiene un notebook de Jupyter y un conjunto de datos que perm
 |--------|------------|
 | `vgsales.csv` | Conjunto de datos con ventas de videojuegos (global, por plataforma, género, región, etc.). |
 | `gamesales (3).ipynb` | Notebook de Jupyter con análisis exploratorio, limpieza, visualización y modelos de predicción. |
-| `desktop.ini` | Archivo del sistema (puede ignorarse). |
 
 ## Objetivos del análisis
 
