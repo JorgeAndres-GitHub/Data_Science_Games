@@ -1,4 +1,4 @@
-# Data_Science_Games
+# GAMESCOPE
 
 Proyecto de análisis de datos sobre ventas de videojuegos.
 
